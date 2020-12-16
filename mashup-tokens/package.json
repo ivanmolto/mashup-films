@@ -1,0 +1,23 @@
+{
+  "name": "mashup-tokens",
+  "version": "1.0.0",
+  "description": "MashUp underlying tokens and contracts",
+  "author": "Ivan Molto",
+  "homepage": "https://github.com/ivanmolto/mashup-films#readme",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivanmolto/mashup-films.git"
+  },
+  "scripts": {
+    "build": "truffle compile"
+  },
+  "bugs": {
+    "url": "https://github.com/ivanmolto/mashup-films/issues"
+  },
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.2.0",
+    "dotenv": "^8.2.0",
+    "openzeppelin-solidity": "^2.1.2"
+  }
+}
