@@ -105,6 +105,8 @@ Currently the owner of the token is the address in BSC mainnet and  in BSC testn
 
 [Migrate dApp contracts to Binance Smart Chain](https://youtu.be/R7uKqRkBaVY)
 
+[Video demo of MashUp Films dApp in BSC testnet](https://youtu.be/LjEiJkplmWk)
+
 
 ## RESOURCES
 
