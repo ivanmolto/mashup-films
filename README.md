@@ -98,15 +98,12 @@ Currently the owner of the token is the address in BSC mainnet and  in BSC testn
 
 ## VIDEOS
 
-[compile-testnet-contracts](https://youtu.be/tgQOrbFgzvU)
 
-[migrate-testnet-contracts](https://youtu.be/Bx8knvfEE9Y)
+[Compile MashUp Films dApp contracts](https://youtu.be/THE26eC3Eos)
 
-[migrate-bsc-contracts](https://youtu.be/-7YLMAzyNkg)
+[Migrate dApp contracts to Binance Smart Chain testnet](https://youtu.be/qEKr2r_Ow7I)
 
-[compile-app-contracts](https://youtu.be/THE26eC3Eos)
-
-[migrate-app-testnet-contracts](https://youtu.be/qEKr2r_Ow7I)
+[Migrate dApp contracts to Binance Smart Chain](https://youtu.be/R7uKqRkBaVY)
 
 
 ## RESOURCES
