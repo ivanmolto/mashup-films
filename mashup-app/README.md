@@ -20,6 +20,7 @@ Run in your terminal the following command:
 You can start to interact with the MashUp Films dApp locally.
 
 If you want to enhance the experience and publish live, you can build it running:
+
 `yarn build`
 
 
