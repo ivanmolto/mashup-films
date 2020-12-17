@@ -14,10 +14,15 @@ She is in the mainnet and testnet.
 He is only in the testnet by now.
 
 Here we will use the below addresses:
+
 MASHUP COMMUNITY BNB ADDRESS = 0x216bD67e7bD2D4ba535d5d224c1493309494B1C9
+
 CREATOR BNB ADDRESS = 0x6b67aD0AAAf280DD7bC60506E785f50b72545542
+
 ALICE BNB ADDRESS:
+
 BOB BNB ADDRESS:
+
 
 ## SETUP
 
