@@ -95,6 +95,14 @@ For the purposes of the demo just only one token has been used and a mashup vide
 Currently the owner of the token is the address in BSC mainnet and  in BSC testnet (addresses managed by me).  
 @Binance_x team please ping me (through discordapp or Gitcoin chat) and I will list a price in BNB (BSC or BSC testnet) so you can purchase it if you want.
 
+MashUp community platform BNB address: 0x216bD67e7bD2D4ba535d5d224c1493309494B1C9
+
+Mashup video/NFT Creator BNB address: 0x6b67aD0AAAf280DD7bC60506E785f50b72545542
+
+Alice BNB address: 0x833Cea74380E602e483e7967c31095dC08069Ffd
+
+Bob BNB address: 0xaA968b747AF48F5189d717C8eB45993114DabadF
+
 
 ## VIDEOS
 
