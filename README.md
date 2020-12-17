@@ -86,7 +86,7 @@ _Contract address_: 0x7e94B82dADe42AD33d1Bb87E2774514BFe98e9ac
 _Transaction Hash: 0xc1269acbecaa7212bb8bdc74dca61cbb8d11beb66453404af0db2adc005e39d9
 
 
-## DEMO APP IN BINANCE SMART CHAIN (MAINNET AND TESTNET)
+## DEMO APP IN BSC (MAINNET AND TESTNET)
 
 https://d31q8rc8z9abr1.cloudfront.net/
 
@@ -109,7 +109,7 @@ Currently the owner of the token is the address in BSC mainnet and  in BSC testn
 [migrate-app-testnet-contracts](https://youtu.be/qEKr2r_Ow7I)
 
 
-## RESOURCES
+## RESOURCES
 
 [Metamask](https://metamask.io)
 
