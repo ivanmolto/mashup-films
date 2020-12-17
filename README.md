@@ -115,7 +115,7 @@ Bob BNB address: 0xaA968b747AF48F5189d717C8eB45993114DabadF
 
 [Video demo of MashUp Films dApp in BSC testnet](https://youtu.be/LjEiJkplmWk)
 
-[Video live demo of MashUp Films dApp in BSC mainnet](https://youtu.be/pDbnuJ_uCUk)
+[Video live demo of MashUp Films dApp in BSC mainnet - Voice comments included](https://youtu.be/pDbnuJ_uCUk)
 
 
 ## RESOURCES
