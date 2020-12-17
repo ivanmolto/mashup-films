@@ -71,6 +71,6 @@ _Contract address_: 0xA5beD5f5068c7C81e66B158B3209B98511b25a25
 
 _Transaction Hash_: 0xb932bdfc02df676193d429286720e45956b0bda01d40592478aa9581e532ae9d
 
-## License
+## LICENSE
 [Apache 2.0](LICENSE)
 
